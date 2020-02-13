@@ -1,4 +1,5 @@
 #Generate a 8 bit random number from 3 qubits
+# to produce a 2**x bit random integer, we need x cubits to represent x states 
 
 import qiskit
 import sys, time
