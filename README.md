@@ -1,2 +1,2 @@
-# qcexamples
-This repo has examples on quantum computing using qiskit.
+# Quantum computing Qiskit examples Qiskit version 0.15
+
